@@ -47,9 +47,8 @@ May 2, 2025
 ## Repository Structure
 
 ```
-├── data
 ├── images
 ├── README.md
-├── election_data.ipynb
+├── data_analysis.pdf
 └── presentation.pdf
 ```
